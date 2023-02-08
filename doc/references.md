@@ -1,1 +1,1 @@
-
+https://www.waveshare.com/wiki/4.2inch_e-Paper_Module_(C)
