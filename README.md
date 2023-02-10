@@ -1,2 +1,2 @@
 # microNote
-E papaer based sticky note
+E paper based sticky note
