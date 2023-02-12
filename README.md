@@ -1,4 +1,4 @@
-# microNote
+# uNote
 E paper based sticky note
 
 Requirements:
